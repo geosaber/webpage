@@ -23,7 +23,7 @@ baseurl: /webpage
 url: https://geosaber.github.io
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: air
+minimal_mistakes_skin: mint
 search: true
 
 # Build settings
